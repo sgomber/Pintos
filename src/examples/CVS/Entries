@@ -1,0 +1,21 @@
+D/lib////
+/.cvsignore/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/Makefile/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/bubsort.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/cat.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/cmp.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/cp.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/echo.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/halt.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/hex-dump.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/insult.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/lineup.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/ls.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/matmult.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/mcat.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/mcp.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/mkdir.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/pwd.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/recursor.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/rm.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/shell.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F

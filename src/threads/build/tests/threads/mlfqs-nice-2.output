@@ -1,0 +1,22 @@
+Writing command line to /tmp/6W9fO4SizP.dsk...
+squish-pty bochs -q
+========================================================================
+                       Bochs x86 Emulator 2.5.1
+              Built from SVN snapshot on January 6, 2012
+                  Compiled on Oct 10 2012 at 11:12:02
+========================================================================
+Kernel command line: -q -mlfqs run mlfqs-nice-2
+Pintos booting with 4,096 kB RAM...
+373 pages available in kernel pool.
+373 pages available in user pool.
+Calibrating timer...  204,600 loops/s.
+hd0:0: detected 1,008 sector (504 kB) disk, model "Generic 1234", serial "BXHD00011"
+Kernel PANIC at ../../filesys/filesys.c:23 in filesys_init(): hd0:1 (hdb) not present, file system initialization failed
+Call stack: 0xc002ff68Kernel PANIC recursion at ../../threads/thread.c:507 in thread_current().
+Timer: 64 ticks
+Thread: 30 idle ticks, 34 kernel ticks, 0 user ticks
+hd0:0: 0 reads, 0 writes
+Console: 589 characters output
+Keyboard: 0 keys pressed
+Exception: 18 page faults
+Powering off...

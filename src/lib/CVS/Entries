@@ -1,0 +1,25 @@
+D/kernel////
+D/user////
+/arithmetic.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/ctype.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/debug.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/debug.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/inttypes.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/limits.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/packed.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/random.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/random.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/round.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/stdarg.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/stdbool.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/stddef.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/stdint.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/stdio.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/stdio.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/stdlib.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/stdlib.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/string.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/string.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/syscall-nr.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/ustar.c/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/ustar.h/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F

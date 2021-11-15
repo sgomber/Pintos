@@ -1,0 +1,17 @@
+D/devices////
+D/examples////
+D/filesys////
+D/lib////
+D/misc////
+D/tests////
+D/threads////
+D/userprog////
+D/utils////
+D/vm////
+/.cvsignore/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/LICENSE/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/Make.config/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/Makefile/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/Makefile.build/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/Makefile.kernel/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
+/Makefile.userprog/1.1.1.1/Fri Aug 18 14:35:44 2017//TUP02F
