@@ -1,2 +1,2 @@
-# pintos
-Pintos assignments of Operating Systems lab.
+# Pintos
+Pintos assignments of the Operating Systems lab.
